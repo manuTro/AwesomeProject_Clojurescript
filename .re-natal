@@ -1,7 +1,7 @@
 {
   "name": "AwesomeProject",
   "interface": "reagent6",
-  "androidHost": "10.0.2.2",
+  "androidHost": "10.0.3.2",
   "iosHost": "localhost",
   "envRoots": {
     "dev": "env/dev",
